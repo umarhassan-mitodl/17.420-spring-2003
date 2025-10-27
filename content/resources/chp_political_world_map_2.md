@@ -4,8 +4,6 @@ description: Political map of the world. (Image courtesy of the CIA World Fact B
 file: /courses/17-420-advances-in-international-relations-theory-spring-2003/9313e254543a11a906921cc43407461f_chp_political_world_map_2.jpg
 file_size: 32203
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
